@@ -16,3 +16,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![CircleCI](https://circleci.com/gh/grafiti-io/iosapp.svg?style=svg&circle-token=:481e7543173565a2e4efcbe8a5e692f878169d2a)](https://circleci.com/gh/grafiti-io/iosapp)
